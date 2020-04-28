@@ -11,6 +11,7 @@
 ### Fixed
 
 - [#1372](https://github.com/epiphany-platform/epiphany/issues/1372) - Epicli does not create PostgreSQL SET\_BY\_AUTOMATION values correctly
+- [#1182](https://github.com/epiphany-platform/epiphany/issues/1182) - Re-run single machine installation may fail
 
 ### Updated
 
